@@ -35,6 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:3.3.3"],\
             ["react", "npm:18.3.1"],\
             ["react-dom", "virtual:2092828969bc804d8086c5549224ca4a38536f59822ab6284bfeadfeebc86204da4cb9449d4b7460f0fbe926ba233ce272352f25699f0d45a724799f34749cba#npm:18.3.1"],\
+            ["react-is", "npm:18.3.1"],\
             ["sanity", "virtual:2092828969bc804d8086c5549224ca4a38536f59822ab6284bfeadfeebc86204da4cb9449d4b7460f0fbe926ba233ce272352f25699f0d45a724799f34749cba#npm:3.64.3"],\
             ["styled-components", "virtual:2092828969bc804d8086c5549224ca4a38536f59822ab6284bfeadfeebc86204da4cb9449d4b7460f0fbe926ba233ce272352f25699f0d45a724799f34749cba#npm:6.1.13"],\
             ["typescript", "patch:typescript@npm%3A5.7.2#~builtin<compat/typescript>::version=5.7.2&hash=5da071"]\
@@ -7682,6 +7683,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:3.3.3"],\
             ["react", "npm:18.3.1"],\
             ["react-dom", "virtual:2092828969bc804d8086c5549224ca4a38536f59822ab6284bfeadfeebc86204da4cb9449d4b7460f0fbe926ba233ce272352f25699f0d45a724799f34749cba#npm:18.3.1"],\
+            ["react-is", "npm:18.3.1"],\
             ["sanity", "virtual:2092828969bc804d8086c5549224ca4a38536f59822ab6284bfeadfeebc86204da4cb9449d4b7460f0fbe926ba233ce272352f25699f0d45a724799f34749cba#npm:3.64.3"],\
             ["styled-components", "virtual:2092828969bc804d8086c5549224ca4a38536f59822ab6284bfeadfeebc86204da4cb9449d4b7460f0fbe926ba233ce272352f25699f0d45a724799f34749cba#npm:6.1.13"],\
             ["typescript", "patch:typescript@npm%3A5.7.2#~builtin<compat/typescript>::version=5.7.2&hash=5da071"]\
