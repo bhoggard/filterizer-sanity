@@ -1,4 +1,5 @@
+import { event } from "./event"
 import { neighborhood } from "./neighborhood"
 import { venue } from "./venue"
 
-export const schemaTypes = [neighborhood, venue]
+export const schemaTypes = [event, neighborhood, venue]
